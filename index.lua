@@ -15,7 +15,7 @@ local Window = Rayfield:CreateWindow({
 local MainTab = Window:CreateTab("Main", 0)
 local ExtraTab = Window:CreateTab("Extra", 0)
 local PlayerTab = Window:CreateTab("Player", 0)
-local SettingsTab = Window:CreateTab("Settings", 0)
+local SettingsTab = Window:CreateTab("Settings", 0
 
 
 local function esp()
